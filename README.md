@@ -1,7 +1,7 @@
 # internship-backend
 
 ##Full Name
-<Parmar Krupali Rajeshbhai>
+<Parmar Parmar Krupali Rajeshbhai>
 
 ##Background
 (I am a IT Student)
